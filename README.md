@@ -37,3 +37,4 @@ Once you have the files and ready to work, you can do your problem
 set using the [template.qmd](template.qmd) file. Remove what you 
 don't need and start to work!
 
+For an example of the final output, please look at [template.pdf](template.pdf).
