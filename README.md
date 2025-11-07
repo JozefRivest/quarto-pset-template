@@ -1,4 +1,4 @@
-# Pset-598-599 Format
+# Pset-598/599 Format
 
 This is an easy and quick template for problem sets for POLSCI 598
 and POLSCI 599 classes. I highly encourage you to not solely rely
