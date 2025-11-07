@@ -27,6 +27,8 @@ terminal in the directory you want to work for your current problem
 set.
 
 ```bash
+cd ~/directory/where/I/want/to/work
+
 quarto use template JozefRivest/pset-598-599
 ```
 
