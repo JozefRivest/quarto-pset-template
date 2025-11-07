@@ -15,7 +15,7 @@ Overleaf does. Hence, Quarto can be helpful, but should not hinder
 your learning of \LaTeX. 
 
 ```mermaid
-flowchart LR;
+flowchart LR
 Pandoc-- Extract syntax from Quarto file to create a new .tex file --> LaTeX;
 LaTeX -- Compile to --> PDF;
 ```
