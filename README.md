@@ -1,24 +1,30 @@
 # Pset-598-599 Format
 
-## Installing
+This is an easy and quick template for problem sets for POLSCI 598
+and POLSCI 599 classes. I highly encourage you to not solely rely
+on this pre-made template, and to continue deepening your LaTeX
+experience and usage. Quarto uses Pandoc to generate the PDF output.
+Furthermore, all equations have to be typed using LaTeX markup
+language. Quarto facilitates the integration with `R` for the output,
+but does not solve all your problems.
 
-*TODO*: Replace the `<github-organization>` with your GitHub organization.
-
-```bash
-quarto use template <github-organization>/pset-598-599
+```mermaid
+flowchart LR;
+Quarto-->Pandoc;
+Pandoc-->LaTeX;
+LaTeX-->PDF;
 ```
 
-This will install the extension and create an example qmd file that you can use as a starting place for your article.
+## Installing
 
-## Using
+To install the template, you can run the following command in your 
+terminal in the directory you want to work for your current problem 
+set.
 
-*TODO*: Describe how to use your format.
+```bash
+quarto use template JozefRivest/pset-598-599
+```
 
-## Format Options
-
-*TODO*: If your format has options that can be set via document metadata, describe them.
-
-## Example
-
-Here is the source code for a minimal sample document: [example.qmd](example.qmd).
+Otherwise, you can copy the whole template by clicking on the green 
+`Code` button, then on Download ZIP. 
 
