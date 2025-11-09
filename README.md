@@ -39,4 +39,16 @@ Once you have the files and ready to work, you can do your problem
 set using the [template.qmd](template.qmd) file. Remove what you 
 don't need and start to work!
 
+Once you have the files in your directory, you can either edit 
+the `template.qmd` file, or create a new Quarto file with the 
+following `yaml`.
+
+```yaml
+title: Your title
+author: Your name
+
+format:
+  pset-598-599-pdf: default
+```
+
 For an example of the final output, please look at [template.pdf](template.pdf).
