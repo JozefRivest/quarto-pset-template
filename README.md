@@ -29,7 +29,7 @@ set.
 ```bash
 cd ~/directory/where/I/want/to/work
 
-quarto use template JozefRivest/pset-598-599
+quarto use template JozefRivest/quarto-pset-template
 ```
 
 Otherwise, you can copy the whole template by clicking on the green 
