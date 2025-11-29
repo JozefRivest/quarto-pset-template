@@ -1,6 +1,6 @@
 ---
-title: PSet example
-author: Jozef Rivest
+title: Title of the PSet
+author: Your name
 date: last-modified
 
 format:
